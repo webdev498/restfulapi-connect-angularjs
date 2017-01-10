@@ -1,0 +1,47 @@
+[
+    {
+        "name": "sergeytsalkov/meekrodb",
+        "version": "v2.2.1",
+        "version_normalized": "2.2.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/SergeyTsalkov/meekrodb.git",
+            "reference": "e403c774c8ca68d3b062713c199f0cddf23c6534"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/SergeyTsalkov/meekrodb/zipball/e403c774c8ca68d3b062713c199f0cddf23c6534",
+            "reference": "e403c774c8ca68d3b062713c199f0cddf23c6534",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.2.0"
+        },
+        "time": "2013-06-21 23:27:25",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "classmap": [
+                "db.class.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "LGPL-3.0"
+        ],
+        "authors": [
+            {
+                "name": "Sergey Tsalkov",
+                "email": "stsalkov@gmail.com"
+            }
+        ],
+        "description": "The Simple PHP/MySQL Library",
+        "homepage": "http://www.meekro.com",
+        "keywords": [
+            "database",
+            "mysql",
+            "mysqli",
+            "pdo"
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
+    ],
+    "hash": "75ddde8b6e14a755b6368a1df4fa02b3",
+    "packages": [
+        {
+            "name": "sergeytsalkov/meekrodb",
+            "version": "v2.2.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/SergeyTsalkov/meekrodb.git",
+                "reference": "e403c774c8ca68d3b062713c199f0cddf23c6534"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/SergeyTsalkov/meekrodb/zipball/e403c774c8ca68d3b062713c199f0cddf23c6534",
+                "reference": "e403c774c8ca68d3b062713c199f0cddf23c6534",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.2.0"
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "db.class.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "LGPL-3.0"
+            ],
+            "authors": [
+                {
+                    "name": "Sergey Tsalkov",
+                    "email": "stsalkov@gmail.com"
+                }
+            ],
+            "description": "The Simple PHP/MySQL Library",
+            "homepage": "http://www.meekro.com",
+            "keywords": [
+                "database",
+                "mysql",
+                "mysqli",
+                "pdo"
+            ],
+            "time": "2013-06-21 23:27:25"
+        }
+    ],
+    "packages-dev": [
+
+    ],
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": [
+
+    ],
+    "platform": [
+
+    ],
+    "platform-dev": [
+
+    ]
+}
